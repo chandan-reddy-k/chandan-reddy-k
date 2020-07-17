@@ -3,7 +3,7 @@
 <h3 align="center">
     An awesome React Developer at <a href="https://www.commutatus.com">Commutatus</a>.  
 </h3>
-<h3 align="center">
+<h3 align="center" width="80%">
     I create intuitive, dynamic user experiences (UI/UX) that are responsive, load blazing fast and crafted with pixel-perfect code.
 </h3>
 
