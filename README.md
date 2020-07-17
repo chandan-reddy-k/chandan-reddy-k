@@ -9,10 +9,6 @@
 
 <br>
 
-<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/codegif.gif" width="100%" />
-
-<br>
-
 
 <h2 align="center">
   Here are some technologies I use at work:
@@ -60,5 +56,8 @@
     <a href="https://chandan.dev"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
   <a href="https://medium.com/@chandan.reddy"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/medium.svg" width="30px" alt="medium"></a> &nbsp; &nbsp;
 </p>
+
+<br>
+<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/codegif.gif" width="100%" />
 
 
