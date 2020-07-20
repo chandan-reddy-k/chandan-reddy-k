@@ -3,6 +3,8 @@
 <h3 align="center">
     An awesome React Developer at <a href="https://www.commutatus.com">Commutatus</a>.  
 </h3>
+<img align="center" alt="Commutatus gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/commutatus.gif" width="100%" />
+<br>
 <h3 align="center" width="80%">
     I create intuitive, dynamic user experiences (UI/UX) that are responsive, load blazing fast and crafted with pixel-perfect code.
 </h3>
