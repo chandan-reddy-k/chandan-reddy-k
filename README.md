@@ -4,12 +4,12 @@
     An awesome React Developer at <a href="https://www.commutatus.com">Commutatus</a>.  
 </h3>
 <p align="center">
-<img alt="Commutatus gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/commutatus.gif" width="75%" />
+<img alt="Commutatus gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/commutatus.gif" width="90%" />
 </p>
 <br/>
-<h3 align="center" width="80%">
+<h2 align="center">
     I create user experiences that are:
-</h3>
+</h2>
 <img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
 
 - **Responsive ✅**
@@ -50,6 +50,10 @@
 </p>
 
 <br/>
+
+<h2 align="center">
+    My contributions to open-source:
+</h2>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan-reddy-k&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="Chandan's Public Github Stats">
