@@ -6,12 +6,24 @@
 <p align="center">
 <img alt="Commutatus gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/commutatus.gif" width="75%" />
 </p>
-<br>
+<br/>
 <h3 align="center" width="80%">
-    I create intuitive, dynamic user experiences (UI/UX) that are responsive, load blazing fast and crafted with pixel-perfect code.
+    I create user experiences that are:
 </h3>
+<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
 
-<br>
+- **Responsive ✅**
+- **Intuitive 🤩**
+- **Dynamic 🧬**
+- **Reusable ♻️**
+- **Secure 🛡️**
+- **Load blazing fast 🚀**
+- **SEO Optimized 🔍**
+- **Crafted with pixel-perfect code ✨**
+
+
+<br/>
+<br/>
 
 
 <h2 align="center">
@@ -26,7 +38,7 @@
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/vue.png"></code>
 </p>
 
-<br>
+<br/>
 
 <p align="center">
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/aws.png"></code> &nbsp;&nbsp;
@@ -37,13 +49,13 @@
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
 </p>
 
-<br>
+<br/>
 
-<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="250" />
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan-reddy-k&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="Chandan's Public Github Stats">
+</p>  
 
-![Chandan's github stats](https://github-readme-stats.vercel.app/api?username=chandan-reddy-k&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515)
-
-<br>
+<br/>
 
 <h2 align="center">
   Do you speak <b>தமிழ்</b>? It's ok if you don't. 
@@ -51,7 +63,7 @@
 <h3 align="center">
   I speak English too, Get in touch.
 </h3>
-<br>
+<br/>
 <p align="center">
  <a href="mailto:chandu25.srm@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
    <a href="https://github.com/chandan-reddy-k"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
