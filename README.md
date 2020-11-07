@@ -56,7 +56,7 @@
 </h2>
 
 <p align="center">
-<img align="center" src="https://git-stats.chandan.dev/" alt="Chandan's Public Github Stats">
+<img align="center" width="100%" src="https://git-stats.chandan.dev/" alt="Chandan's Public Github Stats">
 </p>  
 
 <br/>
