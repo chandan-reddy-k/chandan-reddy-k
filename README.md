@@ -59,6 +59,11 @@
 <img align="center" width="100%" src="https://git-stats.chandan.dev/" alt="Chandan's Public Github Stats">
 </p>  
 
+<p align="center">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=chandan-reddy-k&theme=dark&hide_border=true" alt="Chandan's git commit streak" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=chandan-reddy-k&theme=juicyfresh&row=2&column=3&no-frame=true&title=Commit,PullRequest,Followers" alt="Chandan's git commit trophies" />
+</p>
+
 <br/>
 
 <h2 align="center">
